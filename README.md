@@ -39,6 +39,7 @@
 * [Pika](https://pika.art/) - 创意文本与图像转视频生成工具。
 * [Luma Dream Machine](https://lumalabs.ai/dream-machine) - 高逼真度 AI 视频生成模型。
 * [Sora](https://openai.com/sora) - OpenAI 推出的文生视频大模型。
+* [Cyanvid](https://cyanvid.com/?utm_source=mmjj2014-awesome-ai-video-tools&utm_medium=directory&utm_campaign=backlinks) - AI 视频生成 SaaS：文本/图片生视频，生成前展示精确积分报价。
 
 ### 🗣️ 数字人与 AI 播报视频 (AI Avatars & Presenters)
 
@@ -49,6 +50,7 @@
 
 * [Descript](https://www.descript.com/) - 基于文本的音视频剪辑与处理工具。
 * [CapCut AI](https://www.capcut.com/) - 智能剪辑与自动字幕生成工具。
+* [Barz Studio](https://barzvideo.com/?utm_source=mmjj2014-awesome-ai-video-tools&utm_medium=directory&utm_campaign=backlinks) - 免费浏览器说唱歌词视频制作（歌词同步 + 节拍视觉）；不生成歌曲/人声/AI 画面。
 
 ### 🤝 贡献指南
 
@@ -86,6 +88,7 @@ A curated list of awesome AI video tools, AI video ad generators, AI video edito
 * [Pika](https://pika.art/) - Creative text-to-video and image-to-video platform.
 * [Luma Dream Machine](https://lumalabs.ai/dream-machine) - High-quality, realistic AI video generation model.
 * [Sora](https://openai.com/sora) - Text-to-video model developed by OpenAI.
+* [Cyanvid](https://cyanvid.com/?utm_source=mmjj2014-awesome-ai-video-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator SaaS for text-to-video and image-to-video with clear credit quotes.
 
 ### 🗣️ AI Avatars & Digital Presenters
 
@@ -96,6 +99,7 @@ A curated list of awesome AI video tools, AI video ad generators, AI video edito
 
 * [Descript](https://www.descript.com/) - Text-based video and audio editing tool.
 * [CapCut AI](https://www.capcut.com/) - Smart video editor with auto-captions and AI tools.
+* [Barz Studio](https://barzvideo.com/?utm_source=mmjj2014-awesome-ai-video-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker with lyric sync and beat-reactive visuals (does not generate songs/vocals/AI footage).
 
 ### 🤝 Contributing
 
