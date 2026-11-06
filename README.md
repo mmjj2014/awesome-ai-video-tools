@@ -48,6 +48,7 @@
 ### ✂️ AI 视频剪辑与自动化 processing
 
 * [Descript](https://www.descript.com/) - 基于文本的音视频剪辑与处理工具。
+* [Vidmoat](https://www.vidmoat.com/) - 托管式 AI 视频编辑器：对话编辑、真实时间线、Telegram 与 MCP。
 * [CapCut AI](https://www.capcut.com/) - 智能剪辑与自动字幕生成工具。
 
 ### 🤝 贡献指南
@@ -95,6 +96,7 @@ A curated list of awesome AI video tools, AI video ad generators, AI video edito
 ### ✂️ AI Video Editing & Automation
 
 * [Descript](https://www.descript.com/) - Text-based video and audio editing tool.
+* [Vidmoat](https://www.vidmoat.com/) - Hosted AI video editor with a real reviewable timeline (chat, Telegram, MCP).
 * [CapCut AI](https://www.capcut.com/) - Smart video editor with auto-captions and AI tools.
 
 ### 🤝 Contributing
