@@ -44,6 +44,7 @@
 
 * [HeyGen](https://www.heygen.com/) - 企业级 AI 数字人视频制作平台。
 * [Synthesia](https://www.synthesia.io/) - 支持多语言 AI 播报员的视频生成平台。
+* [MakeAICreator](https://makeaicreator.com/) - 打造形象一致的虚拟创作者，生成照片、带配音的短视频及产品植入场景。
 
 ### ✂️ AI 视频剪辑与自动化 processing
 
@@ -91,6 +92,7 @@ A curated list of awesome AI video tools, AI video ad generators, AI video edito
 
 * [HeyGen](https://www.heygen.com/) - AI video generator with custom, realistic avatars.
 * [Synthesia](https://www.synthesia.io/) - AI video generation platform with multilingual voiceovers.
+* [MakeAICreator](https://makeaicreator.com/) - Design a consistent virtual creator and generate photos, talking videos with voiceover, and product placements.
 
 ### ✂️ AI Video Editing & Automation
 
