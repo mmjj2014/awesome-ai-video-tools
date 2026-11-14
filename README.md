@@ -35,6 +35,7 @@
 
 ### 🎬 文本/图片转视频 (Text/Image to Video)
 
+* [可灵 AI](https://klingai.com/) - 支持文本和图像生成视频，可用于广告创意的视觉概念制作。
 * [Runway](https://runwayml.com/) - 强大的 AI 视频生成与编辑平台 (Gen-2/Gen-3)。
 * [Pika](https://pika.art/) - 创意文本与图像转视频生成工具。
 * [Luma Dream Machine](https://lumalabs.ai/dream-machine) - 高逼真度 AI 视频生成模型。
@@ -82,6 +83,7 @@ A curated list of awesome AI video tools, AI video ad generators, AI video edito
 
 ### 🎬 Text & Image to Video
 
+* [Kling AI](https://klingai.com/) - Generates video from text or images for creative concepts, including advertising visuals.
 * [Runway](https://runwayml.com/) - Advanced AI video generation and editing workspace.
 * [Pika](https://pika.art/) - Creative text-to-video and image-to-video platform.
 * [Luma Dream Machine](https://lumalabs.ai/dream-machine) - High-quality, realistic AI video generation model.
